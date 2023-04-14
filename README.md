@@ -7,7 +7,7 @@ Software Developer
 I am an 18-year-old software developer with a strong passion for coding.
 
 * 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [My Website](http://petermangialardi.me)
+* 🖥️  See my portfolio at [My Website](http://petermangialardi.com)
 * ✉️  You can contact me at [petermang122@gmail.com](mailto:petermang122@gmail.com)
 * 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on Projects
