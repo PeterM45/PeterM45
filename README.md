@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am an 18-year-old software developer with a strong passion for coding.
+I am a 19-year-old software developer with a strong passion for coding.
 
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [My Website](https://mangialardi.dev)
