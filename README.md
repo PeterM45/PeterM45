@@ -1,8 +1,8 @@
 # Peter Mangialardi
 
-## Software Developer
+I work in a _few_ private repos.
 
-I am a 19-year-old software developer with a strong passion for coding.
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /> and <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> are pretty cool.
 
 - 🌍  Toronto, Canada
 - 🖥️  [My Website](https://mangialardi.dev)
@@ -15,4 +15,4 @@ I am a 19-year-old software developer with a strong passion for coding.
 
 ### Socials
 
-<p align="left"> <a href="https://www.instagram.com/aurelisagency" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/peter-mangialardi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/peter-mangialardi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/aurelisagency/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
