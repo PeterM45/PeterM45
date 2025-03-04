@@ -1,6 +1,11 @@
 # Peter Mangialardi
 
-### 🎨 Modern Web Stack
+- Chief Software Architect & VP of Software Development @ [Aurelis](https://www.aurelis.ca/)
+- 🌍  Toronto, Canada
+- 🖥️  [My Website](https://mangialardi.dev)
+- 🧠  University of Guelph, Software Engineering Major
+
+### Modern Web Stack
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![tRPC](https://img.shields.io/static/v1?style=for-the-badge&message=tRPC&color=2596BE&logo=tRPC&logoColor=FFFFFF&label=)
@@ -10,7 +15,8 @@
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 
-### 🛠️ Systems & Infrastructure
+
+### Systems & Infra
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
 ![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=Amazon+Web+Services&logoColor=FFFFFF&label=)
@@ -20,10 +26,13 @@
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![Puppeteer](https://img.shields.io/static/v1?style=for-the-badge&message=Puppeteer&color=40B5A4&logo=Puppeteer&logoColor=FFFFFF&label=)
 
-- 🌍  Toronto, Canada
-- 🖥️  [My Website](https://mangialardi.dev)
-- ✉️  [petermang122@gmail.com](mailto:petermang122@gmail.com)
-- 🧠  University of Guelph, Software Engineering Major
+### Stats
+<span>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterM45&layout=compact&theme=dark" alt="top-langs" />
+</span>
+</span>
+
 
 ### Socials
 
