@@ -5,7 +5,7 @@
 - 🖥️  [My Website](https://mangialardi.dev)
 - 🧠  University of Guelph, Software Engineering Major
 
-### Modern Web Stack
+### Web Stack
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![tRPC](https://img.shields.io/static/v1?style=for-the-badge&message=tRPC&color=2596BE&logo=tRPC&logoColor=FFFFFF&label=)
