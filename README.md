@@ -1,7 +1,7 @@
 ### Hey 👋
 
 Co-founder @ **Aurelis** • Chief Software Architect  
-20 • Toronto • University of Guelph
+21 • Toronto • University of Guelph
 
 ---
 
